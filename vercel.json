@@ -7,7 +7,7 @@
   ],
   "functions": {
     "api/**/*.js": {
-      "includeFiles": "node_modules/@scalar/fastify-api-reference/dist/utils/js/standalone.js"
+      "includeFiles": "node_modules/@scalar/fastify-api-reference/dist/js/standalone.js"
     }
   }
 }
